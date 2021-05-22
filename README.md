@@ -53,5 +53,3 @@
 <a href="https://github.com/Afsimsek25">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afsimsek25&theme=synthwave" />
 </a>
-
-  
