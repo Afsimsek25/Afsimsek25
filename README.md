@@ -12,9 +12,9 @@
 <div size='20px'> Hi! My name is Furkan SIMSEK. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-- 🔭 I’m currently working on Test Automation Projects
+- 🔭 I’m currently working on Test Automation Projects and AI
 
-- 🌱 I’m currently learning JS, React and Node.js 
+- 🌱 I’m currently learning Python, CV2 and OCR 
 
 - 👯 I’m looking to collaborate on any project
 
