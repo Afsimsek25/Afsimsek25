@@ -5,7 +5,7 @@
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=Afsimsek25.visitor-badge)](https://github.com/Afsimsek25)
 
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5px> </h1>
+<h1> Hello Fellow < Developers/ >! </h1>
 <p align='center'>
 
 </p>
@@ -20,7 +20,7 @@
 
 - 💬 Talk to me about everything
 
-<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills  </h2>
+<h2> Skills  </h2>
 <a href= https://github.com/Afsimsek25?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://github.com/Afsimsek25?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 <a href= https://github.com/Afsimsek25?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -45,7 +45,7 @@
 
 
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My GitHub Stats  </h2>
 
 <a href="https://github.com/Afsimsek25?tab=repositories">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Afsimsek25&count_private=true&show_icons=true&theme=synthwave" />
